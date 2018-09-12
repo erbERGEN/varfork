@@ -1,1 +1,2 @@
 hello
+newline made in the submodule
